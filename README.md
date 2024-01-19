@@ -8,6 +8,10 @@
 
 A project that takes long form content and breaks it down into clips based on a prompt
 
+## Problem Statement
+
+There exist a countless amount of content on the internet. It's difficult to gain any insight from the noise, and it difficult to determine if any of the content is relevant. This is the problem I am trying to solve. 
+
 ## Features
 
 - Feature 1
