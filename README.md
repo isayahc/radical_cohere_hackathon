@@ -1,4 +1,4 @@
-# Project Name
+# TBA
 
 [![Build Status](https://img.shields.io/travis/username/reponame.svg?style=flat-square)](https://travis-ci.org/username/reponame)
 [![Coverage Status](https://img.shields.io/coveralls/username/reponame.svg?style=flat-square)](https://coveralls.io/github/username/reponame)
@@ -6,7 +6,7 @@
 
 ## Description
 
-Brief description of your project.
+A project that takes long form content and breaks it down into clips based on a prompt
 
 ## Features
 
